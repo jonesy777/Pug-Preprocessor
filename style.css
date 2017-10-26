@@ -1,0 +1,22 @@
+.box1 {
+  height:50px;
+  width:50px;
+  margin:7px;
+  position:;
+  z-index:1;
+  float:left;
+  background-color:blue;
+}
+.circle1 {
+  height:70px;
+  width:70px;
+  border-radius:47px;
+  margin:7px;
+  position:;
+  z-index:2; 
+  float:left;
+  background-color: pink;
+}
+.clearfix {
+  overflow:auto;
+}
